@@ -993,11 +993,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Liceth Flores\\Documents\\TAREA1MOD6\\tarea1\\Tarea1\\Tarea1\\Tarea1.csproj",
+      "projectUniqueName": "C:\\Users\\Liceth Flores\\Documents\\GitHub\\ApiGatewayOcelot\\Tarea1\\Tarea1.csproj",
       "projectName": "Tarea1",
-      "projectPath": "C:\\Users\\Liceth Flores\\Documents\\TAREA1MOD6\\tarea1\\Tarea1\\Tarea1\\Tarea1.csproj",
+      "projectPath": "C:\\Users\\Liceth Flores\\Documents\\GitHub\\ApiGatewayOcelot\\Tarea1\\Tarea1.csproj",
       "packagesPath": "C:\\Users\\Liceth Flores\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Liceth Flores\\Documents\\TAREA1MOD6\\tarea1\\Tarea1\\Tarea1\\obj\\",
+      "outputPath": "C:\\Users\\Liceth Flores\\Documents\\GitHub\\ApiGatewayOcelot\\Tarea1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Liceth Flores\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXpFD8tNj6HvsViHA7I1UceJoKT0r7xy6ZwGx9iW6C4RpxMi5BC7D66viUBA5KOrNleMCKW41wY4ClbBzZodAw==",
+  "dgSpecHash": "l/skfK2A+2xXgpL6Mga/qx3A0TJvf6s4IEkPRcl2ryCSRr0ibxj5uWiipQCy3VSgCGpy4RqM/cOUzp2tK2OKlg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Liceth Flores\\Documents\\TAREA1MOD6\\tarea1\\Tarea1\\Tarea1\\Tarea1.csproj",
+  "projectFilePath": "C:\\Users\\Liceth Flores\\Documents\\GitHub\\ApiGatewayOcelot\\Tarea1\\Tarea1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Liceth Flores\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\Liceth Flores\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\6.0.9\\microsoft.aspnetcore.authentication.jwtbearer.6.0.9.nupkg.sha512",
